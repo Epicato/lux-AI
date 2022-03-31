@@ -14,4 +14,4 @@ For testing the agent's performance, please follow the instructions in this [Tut
 ## Result
 Finally our team scored 1436.3(93/1178).  
 Our agent trained with U-Net has become a smart game player!  
-![]('game.png')
+![]("game.png")
